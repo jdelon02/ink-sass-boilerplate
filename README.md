@@ -1,4 +1,4 @@
-Ink
+Sass Boilerplate for Ink Email Framework
 ===
 
 Ink is a responsive email framework, used to make HTML emails look great on any client or device.  It includes a 12-column grid, as well as some simple UI elements for rapid prototyping.
